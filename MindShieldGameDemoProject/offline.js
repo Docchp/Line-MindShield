@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1731305946,
+	"version": 1731372234,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,12 +20,13 @@
 		"images/bg-sheet0.png",
 		"images/bg3-sheet0.png",
 		"images/board-sheet0.png",
-		"images/btn1-sheet0.png",
-		"images/btn_home-sheet0.png",
+		"images/btngame-sheet0.png",
+		"images/btn_home_game-sheet0.png",
 		"images/comechom-sheet0.png",
 		"images/header5-sheet0.png",
 		"images/bg5-sheet0.png",
 		"images/comechom2-sheet0.png",
+		"images/endgametext-sheet0.png",
 		"media/button.ogg",
 		"media/click.ogg",
 		"media/death.ogg",
